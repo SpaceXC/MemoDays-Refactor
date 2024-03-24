@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemoDays</string>
+    <string name="add_memo_day">Create a Memo</string>
+    <string name="title">Title</string>
+</resources>
